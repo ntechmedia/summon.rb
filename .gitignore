@@ -6,3 +6,4 @@ pkg
 .specification
 .DS_Store
 .rvmrc
+.env
